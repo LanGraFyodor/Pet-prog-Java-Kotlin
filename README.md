@@ -1,4 +1,4 @@
-# Академия Бэкенда — Java Edition <img src="images/image.png" style="height: 20px; object-fit: cover;"/>
+# Pet-prog-Java-Kotlin <img src="images/image.png" style="height: 20px; object-fit: cover;"/>
 
 Приветствую тебя, странник!
 
